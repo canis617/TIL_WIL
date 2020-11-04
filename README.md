@@ -5,10 +5,6 @@ Motivated by [this](https://github.com/cheese10yun/TIL)
 
 ## TIL
 
-## Useful sites
-
-## WIL
-
 ### Operating System
 
 ### Database
@@ -48,3 +44,5 @@ Motivated by [this](https://github.com/cheese10yun/TIL)
 ### AWS
 
 ### Linux
+
+## Useful sites
