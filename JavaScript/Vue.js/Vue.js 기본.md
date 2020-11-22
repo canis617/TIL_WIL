@@ -35,9 +35,7 @@
   - ComponentOptions를 사용한 접근의 경우, 템플릿을 플레인 문자열로 표현하는 탓에 많은 정보를 잃게 된다.
     - template 대신 render 함수를 사용하고 그 안에서 JSX를 사용할 수 있지만, VueJS가 권장하는 방식은 아니다.
 
-
 ## vue js 에서 알아두면 좋은 것들
-
 
 ### Computed Caching vs Methods
 
