@@ -1,0 +1,1 @@
+[블록체인 읽어볼만한 글](https://steemit.com/kr/@ryugihyeok/46pq5f-kr)
